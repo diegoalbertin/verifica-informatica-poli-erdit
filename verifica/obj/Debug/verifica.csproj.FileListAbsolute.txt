@@ -1,0 +1,7 @@
+C:\Users\Studente\Desktop\verifica\bin\Debug\verifica.exe.config
+C:\Users\Studente\Desktop\verifica\bin\Debug\verifica.exe
+C:\Users\Studente\Desktop\verifica\bin\Debug\verifica.pdb
+C:\Users\Studente\Desktop\verifica\obj\Debug\verifica.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\verifica\obj\Debug\verifica.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\verifica\obj\Debug\verifica.exe
+C:\Users\Studente\Desktop\verifica\obj\Debug\verifica.pdb
